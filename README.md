@@ -35,7 +35,7 @@ make            # -> DSFetch.nds
 
 ## Credits & inspiration
 
-A port of the author's own [3ds-fastfetch](https://github.com/xPsycho999/3ds-fastfetch),
+A port of my own [3ds-fastfetch](https://github.com/xPsycho999/3ds-fastfetch),
 itself inspired by [fastfetch](https://github.com/fastfetch-cli/fastfetch). Built on
 [libnds](https://github.com/devkitPro/libnds) / [devkitPro](https://devkitpro.org/).
 
