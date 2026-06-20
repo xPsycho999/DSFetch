@@ -1,0 +1,15 @@
+# devkitARM / libnds build output
+build/
+*.elf
+*.nds
+*.bin
+*.lst
+*.map
+
+# Editor / OS cruft
+.vscode/*
+!.vscode/settings.json
+*.swp
+*~
+.DS_Store
+Thumbs.db
